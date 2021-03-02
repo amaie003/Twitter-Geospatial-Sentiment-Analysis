@@ -1,0 +1,1 @@
+python ../python/NaiveBayes_Test.py ../dataset/data.csv

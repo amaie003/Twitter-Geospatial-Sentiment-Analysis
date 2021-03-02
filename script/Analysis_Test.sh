@@ -1,0 +1,1 @@
+python ../python/Analysis_Test.py ../dataset/data.csv
